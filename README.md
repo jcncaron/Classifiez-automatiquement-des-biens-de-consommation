@@ -1,6 +1,5 @@
-Projet 8 OpenClassrooms
-
 # Classifiez-automatiquement-des-biens-de-consommation
+Projet 8 OpenClassrooms
 
 Vous êtes Data Scientist au sein de l’entreprise "Place de marché”, qui souhaite lancer une marketplace e-commerce.
 
