@@ -30,8 +30,6 @@ Afin d’extraire les features texte, il sera nécessaire de mettre en œuvre :
 - une approche de type word/sentence embedding classique avec Word2Vec (ou Glove ou FastText) ;
 - une approche de type word/sentence embedding avec BERT ;
 - une approche de type word/sentence embedding avec USE (Universal Sentence Encoder). 
- 
-En pièce jointe, tu trouveras un exemple de mise en œuvre de ces approches sur un autre dataset. Je t’invite à l’utiliser comme point de départ, cela va te faire gagner beaucoup de temps !
 
 Afin d’extraire les features image, il sera nécessaire de mettre en œuvre :
 - un algorithme de type SIFT / ORB / SURF ;
@@ -42,13 +40,6 @@ Merci encore,
 Linda
 
 P.S. : j’insiste sur le fait qu’on n’a pas besoin d’un moteur de classification supervisée à ce stade, mais bien d’une étude de faisabilité !
-
-
-Pièces jointes : 
-
-premier jeu de données d’articles avec le lien pour télécharger la photo et une description associée
-un notebook d’exemple de mise en œuvre de ces approches
-Bon courage !
 
 Livrables :
 - Un notebook (ou des fichiers .py) contenant les fonctions permettant le prétraitement des données textes et images ainsi que les résultats du clustering (en y incluant des représentations graphiques).
