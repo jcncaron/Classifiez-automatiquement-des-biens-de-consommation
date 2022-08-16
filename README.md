@@ -1,5 +1,5 @@
 # Classifiez-automatiquement-des-biens-de-consommation
-Projet 8 OpenClassrooms
+Projet 6 OpenClassrooms
 
 Vous êtes Data Scientist au sein de l’entreprise "Place de marché”, qui souhaite lancer une marketplace e-commerce.
 
@@ -34,33 +34,3 @@ Afin d’extraire les features texte, il sera nécessaire de mettre en œuvre :
 Afin d’extraire les features image, il sera nécessaire de mettre en œuvre :
 - un algorithme de type SIFT / ORB / SURF ;
 - un algorithme de type CNN Transfer Learning.
-
-Merci encore, 
-
-Linda
-
-P.S. : j’insiste sur le fait qu’on n’a pas besoin d’un moteur de classification supervisée à ce stade, mais bien d’une étude de faisabilité !
-
-Livrables :
-- Un notebook (ou des fichiers .py) contenant les fonctions permettant le prétraitement des données textes et images ainsi que les résultats du clustering (en y incluant des représentations graphiques).
-- Un support de présentation qui présente la démarche et les résultats du clustering.
-
-Pour faciliter votre passage au jury, déposez sur la plateforme, dans un dossier nommé “P6_nom_prenom”, tous les livrables du projet. Chaque livrable doit être nommé avec le numéro du projet et selon l'ordre dans lequel il apparaît, par exemple “P6_01_notebook”, et ainsi de suite.
-
-Soutenance
-La soutenance se déroulera en visioconférence et durera 30 minutes. Elle s’appuiera sur votre deuxième livrable (votre présentation). 
-
-Présentation (20 minutes) 
-- Rappel de la problématique et présentation du jeu de données (5 minutes).
-- Explication des prétraitements et des résultats du clustering (10 minutes).
-- Conclusion sur la faisabilité du moteur de classification et vos recommandations pour sa création éventuelle (5 minutes).
-Discussion (5 minutes)
-- L’évaluateur, jouant le rôle de Linda, vous challengera sur vos choix.
-Débriefing (5 minutes)
-- À la fin de la soutenance, l'évaluateur arrêtera de jouer le rôle de Linda pour vous permettre de débriefer ensemble.
-
-Compétences évaluées
-- Prétraiter des données texte pour obtenir un jeu de données exploitable
-- Mettre en œuvre des techniques de réduction de dimension
-- Représenter graphiquement des données à grandes dimensions
-- Prétraiter des données image pour obtenir un jeu de données exploitable
